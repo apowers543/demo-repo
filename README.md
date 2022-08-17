@@ -1,8 +1,8 @@
-# Demo
+# Demo header
 
 Some description here!
 
 
-## Subheader
+## Demo Subheader
 
 Watch tutorial on YouTube! 
